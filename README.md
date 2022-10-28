@@ -1,0 +1,2 @@
+# hangman
+Game in JS
